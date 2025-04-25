@@ -1,0 +1,14 @@
+random
+os
+sys
+json
+datetime
+numpy
+sounddevice
+webbrowser
+pygetwindow
+pyautogui
+time
+traceback
+subprocess
+logging
